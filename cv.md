@@ -1,16 +1,16 @@
 # ilya Drozdov
 
-# Contact info
+## Contact info
 * **Phone:** +375295051138
 * **Email:** [id5051138@gmail.com](id5051138@gmail.com)
 * **Discord:** rs-school ilya Drozdov (@id2339)
 * **LinkedIn:** [ilya-drozdov](https://www.linkedin.com/in/ilya-drozdov/)
 * **GitHub:** [id2339 (ilya Drozdov)](https://github.com/id2339)
 
-# About
+## About
 My aim is deep learning programming and become a highly skilled developer. I take all my free time for it and even more.
 
-# Skills
+## Skills
 
 * html, css.
 * JavaScript (understand theory and a little in practice; in progress).
@@ -18,14 +18,14 @@ My aim is deep learning programming and become a highly skilled developer. I tak
 * Illustrator, Photoshop, Figma (for web development).
 * VSCode.
 
-# Code example
+## Code example
 ```JavaScript
 let text = "Lorem ipsum dolor sit amet consectetur adipisicing elit.";
 let toUC = text.toUpperCase();
 console.log(toUC);
 ```
 
-# Education
+## Education
 * **The Rolling Scopes**
   * JavaScript/Front-end (in progress).
 * **code.mu**
@@ -37,6 +37,6 @@ console.log(toUC);
 * **The state educational establishment «The Institute of Border Service of the Republic of Belarus»**
   * «Ideological Work of the Border Service» (manager), 2007 - 2011.
 
-# Languages
+## Languages
 * **English**
   * Elementary proficiency (in progress).
