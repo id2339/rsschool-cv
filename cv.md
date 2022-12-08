@@ -4,7 +4,7 @@
 * **Phone:** +375295051138
 * **Email:** [id5051138@gmail.com](id5051138@gmail.com)
 * **Discord:** rs-school ilya Drozdov (@id2339)
-* **LinkedIn:** [ilya-drozdov](https//www.linkedin.com/in/ilya-drozdov/)
+* **LinkedIn:** [ilya-drozdov](https://www.linkedin.com/in/ilya-drozdov/)
 * **GitHub:** [id2339 (ilya Drozdov)](https://github.com/id2339)
 
 # About
