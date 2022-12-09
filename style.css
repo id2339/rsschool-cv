@@ -1,0 +1,30 @@
+*,
+*::before ,
+*::after {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	-webkit-user-select: none; /* Safari */
+	-ms-user-select: none; /* IE 10+ */
+	user-select: none;
+}
+
+html {
+	font-size: 62.5%;
+	max-width: 1920px;
+}
+
+body {
+	font-weight: 400;
+	font-size: 1.6rem;
+	font-size-adjust: auto;
+	font-family: 'Open Sans', Verdana, sans-serif;
+	line-height: 1.2;
+}
+
+.container {
+	display: flex;
+	flex-flow: column nowrap;
+	width: 100%;
+	max-width: 1240px;
+}
